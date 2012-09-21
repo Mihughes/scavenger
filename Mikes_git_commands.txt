@@ -50,3 +50,8 @@ $ history
    49  git pull origin master
    50  git diff HEAD
    51  history
+Order of operation:
+1. edit/create the file
+2. git add thefile
+3. git commit -m 'babble something'
+4. git push origin master
