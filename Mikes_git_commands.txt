@@ -51,6 +51,10 @@ $ history
    50  git diff HEAD
    51  history
 Order of operation:
+After starting Git Bash, 
+Hook up to my repository first:
+git clone git@github.com:Mihughes/scavenger.git
+
 1. edit/create the file
 2. git add thefile
 3. git commit -m 'babble something'
