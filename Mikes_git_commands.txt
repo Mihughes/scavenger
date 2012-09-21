@@ -59,3 +59,6 @@ I added Order of operations on the web site. To pull down:
 5. git pull
 6. yay, git pull works. This line added on the PC....
 7. git push
+8. After each edit, you have to do 2, 3, and 4. But, after the first git push, you don't need to use origin 
+master anymore. Just say git push.
+
