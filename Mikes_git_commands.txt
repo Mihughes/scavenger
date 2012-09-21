@@ -55,3 +55,7 @@ Order of operation:
 2. git add thefile
 3. git commit -m 'babble something'
 4. git push origin master
+I added Order of operations on the web site. To pull down:
+5. git pull
+6. yay, git pull works. This line added on the PC....
+7. git push
